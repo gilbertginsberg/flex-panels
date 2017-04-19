@@ -7,7 +7,6 @@ html {
   }
 
 body {
-  max-width: 100%;
   margin: 0;
   font-size: medium;
   font-family: 'Fascinate', cursive;
@@ -20,7 +19,6 @@ body {
 
 .panels {
   display: flex;
-  max-width: 100%;
   min-height: 100vh;
   overflow: hidden;
   font-size: 250%;
